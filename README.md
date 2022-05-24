@@ -10,7 +10,7 @@ Contents
 
 [2基於Vega10嘅硬件相關優化實例...  3](#_Toc15369684)
 
-[2.1  塊與線程： Blocks &Threads. 3]（#_Toc15369685）
+[2.1  塊與線程： Blocks &Threads. 3](#_Toc15369685)
 
 [2.1.1最高綫程速率...  3](#_Toc15369686)
 
@@ -56,9 +56,9 @@ Contents
 
 [2.9 Local Data Share：本地數據共享...  26](#_Toc15369707)
 
-[2.9.1 LDS Latency. 26] (#_Toc15369708)
+[2.9.1 LDS Latency. 26](#_Toc15369708)
 
-[2.9.2 LDS bank Conflicts. 27] (#_Toc15369709)
+[2.9.2 LDS bank Conflicts. 27](#_Toc15369709) 
 
 [2.10 Memory Channel Conflicts：存儲通道衝突...  28](#_Toc15369710)
 
@@ -70,7 +70,7 @@ Contents
 
 [2.13.1 1st Padding Kernel 31](#_Toc15369714)
 
-[2.13.2 Optimize Kernel to Remove Scratch Memory. 33] (#_Toc15369715)
+[2.13.2 Optimize Kernel to Remove Scratch Memory. 33](#_Toc15369715) 
 
 [2.14 BatchNorm..  33](#_Toc15369716)
 
